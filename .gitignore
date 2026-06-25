@@ -1,0 +1,8 @@
+.DS_Store
+.clasp.json
+.env
+*.env
+credentials.json
+token.json
+service-account.json
+node_modules/
